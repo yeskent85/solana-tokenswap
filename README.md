@@ -1,3 +1,9 @@
+# author
+    Nakoto Tanaka
+# solana-token-swap-ui
+
+This is a token swap smart contract fron gui project built with react
+
 # `@project-serum/swap-ui`
 
 [![Build Status](https://travis-ci.com/project-serum/swap-ui.svg?branch=master)](https://travis-ci.com/project-serum/swap-ui)
